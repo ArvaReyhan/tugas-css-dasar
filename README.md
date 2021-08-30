@@ -1,5 +1,5 @@
-# praktikum-css-dasar
-# Ahmad Syahrul Ramadhani
+# tugas-css-dasar
+# Arva Reyhan Satria
 
 # SS Tugas Praktikum
 ss tugas praktikum
